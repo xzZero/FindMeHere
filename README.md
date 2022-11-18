@@ -12,7 +12,7 @@ In this project, I built a data platform architecture for an e-commerce company.
 
 Besides the capstone project, I also documented my entire course in this [link](https://github.com/xzZero/DataEng_IBM).
 ## [Automation of Test cases Creation](https://www.robo-test.ai/)
-In this project, I contributed to an incubator name Robo-Test hosted by the Institute of Industrial Automation and Software Engineering at Stuttgart University. Robo-Test provides a platform and toolbox for test and release of automated and autonomous systems. In recent years, manual testing has been showing its ineffectiveness in autonomous driving testing due to the need for the on-the-fly corrections and changes in autonomous systems.
+In this project, I contributed to an incubator named Robo-Test hosted by the Institute of Industrial Automation and Software Engineering at Stuttgart University. Robo-Test provides a platform and toolbox for test and release of automated and autonomous systems. In recent years, manual testing has been showing its ineffectiveness in autonomous driving testing due to the need for the on-the-fly corrections and changes in autonomous systems.
 
 I successfully developed a Web-based Application using Django to automate the scenario-based test cases creation from DOORS requirements. There are three main challenges to the project: (1) How to convert the textual natural language requirements to the verification criteria in Signal Temporal Logic (which is a formal language)?; (2) How to generate python scripts for test cases from requirements (test cases are written in Python)?; (3) How to reuse the test cases in other testing systems (the need of a test case standard)?
 
